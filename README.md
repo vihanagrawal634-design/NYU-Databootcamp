@@ -18,7 +18,7 @@
 
 ![](images/chart3.png)
 
-![](images/chart4.png)
+
 
 From these statistics, you can see that on average, revenue has a stronger correlation with stock price with an average correlation of 0.181 while EPS has an average correlation of .0637. The strong total correlation throughout all three companies and both metrics in between revenue and price for Exxon Mobil. Between Revenue, and EPS , it would be more reliable to expect stock price behavior after a revenue earnings surprise.
 
