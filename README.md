@@ -12,7 +12,7 @@
 
 **Experimental Question #1:** The first question we analyzed is whether EPS expectation surprises or revenue expectation surprises have the strongest correlation with stock price change? This question is especially significant because it provides information on whether certain metrics are more closely linked to changes in stock price.
 
-![](../images/chart1.png)
+![](images/chart1.png)
 
 ![](images/chart2.png)
 
